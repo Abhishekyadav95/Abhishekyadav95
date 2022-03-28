@@ -1,8 +1,5 @@
-- # Hii there  
-## i am abhishek yadav , Student , Programmer and Full-stack-web-dev.
-
-|MY SKILLS INCLUDE||
-|-|-|
-|1.|C++ programming language|
-|2.|JAVA lang.|
-|3.|SQL|
+> <h1 align="center">
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=HII+THERE+'+_+'+👋;I'm+Abhishek+yadav...;STUDENT+,+PROGRAMMER;FULL+STACK+WEB+DEVELOPER;!&center=true&size=20">
+  </a>
+</h1>
